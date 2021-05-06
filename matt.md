@@ -4,7 +4,7 @@ These [Google slides](https://docs.google.com/presentation/d/1_2ybhWlbg_Y_NrTQ_F
 
 You can contact me *(lists need a carriage return before list items)*: 
 
-- twitter: [@@matthewtisdale8](https://twitter.com/@matthewtisdale8)
+- twitter: [@matthewtisdale8](https://twitter.com/@matthewtisdale8)
 - github: [@mstisdal](https://github.com/mstisdal)
 
 
