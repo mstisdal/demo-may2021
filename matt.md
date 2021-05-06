@@ -21,4 +21,5 @@ Have you noticed the `[]()` pattern to make links in Markdown? Put words to hype
 I also talked about GitHub for science – and can include an image with the same format, but note the preceding exclamation point: `![]()` (From the browser, you'll need an image with an existing url). 
 
 ![](https://octodex.github.com/images/labtocat.png)
+
 ![](https://logos-download.com/wp-content/uploads/2018/01/NASA_logo_blue.png)
